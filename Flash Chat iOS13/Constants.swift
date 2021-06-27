@@ -1,11 +1,3 @@
-//
-//  Constants.swift
-//  Flash Chat iOS13
-//
-//  Created by Ronish Khadgi on 6/25/21.
-//  Copyright © 2021 Angela Yu. All rights reserved.
-//
-
 import Foundation
 
 struct K {

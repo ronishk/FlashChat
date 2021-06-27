@@ -1,11 +1,3 @@
-//
-//  MessageCell.swift
-//  Flash Chat iOS13
-//
-//  Created by Ronish Khadgi on 6/26/21.
-//  Copyright © 2021 Angela Yu. All rights reserved.
-//
-
 import UIKit
 
 class MessageCell: UITableViewCell {

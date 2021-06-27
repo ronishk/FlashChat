@@ -1,13 +1,13 @@
 version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
 options: "a0e18314e971f45b96e69d190700ac13"
-build_time: [1624749919, 454890000]
+build_time: [1624828819, 278818000]
 inputs:
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/WelcomeViewController.swift": [1624680573, 184898263]
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/AppDelegate.swift": [1624625418, 482780544]
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/SceneDelegate.swift": [1624543625, 609008705]
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/LoginViewController.swift": [1624709759, 704134430]
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Constants.swift": [1624680573, 222756727]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/WelcomeViewController.swift": [1624828746, 427895823]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/AppDelegate.swift": [1624828740, 408841410]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/SceneDelegate.swift": [1624828746, 409874206]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/LoginViewController.swift": [1624828746, 418892075]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Constants.swift": [1624828817, 926811517]
   "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Models/Message.swift": [1624712409, 666594154]
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/ChatViewController.swift": [1624714390, 266830430]
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/RegisterViewController.swift": [1624680573, 204180447]
-  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Views/MessageCell.swift": [1624715173, 296036823]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/ChatViewController.swift": [1624828694, 221404466]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Controllers/RegisterViewController.swift": [1624828746, 381456815]
+  "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Flash Chat iOS13/Views/MessageCell.swift": [1624828746, 390044813]
