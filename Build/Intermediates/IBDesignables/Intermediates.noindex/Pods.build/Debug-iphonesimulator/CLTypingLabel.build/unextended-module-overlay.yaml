@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Build/Intermediates/IBDesignables/Products/Debug-iphonesimulator/CLTypingLabel/CLTypingLabel.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Build/Intermediates/IBDesignables/Intermediates.noindex/Pods.build/Debug-iphonesimulator/CLTypingLabel.build/unextended-module.modulemap",
+    }]
+  }]
+}

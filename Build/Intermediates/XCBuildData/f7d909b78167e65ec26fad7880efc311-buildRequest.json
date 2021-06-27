@@ -1,0 +1,111 @@
+{
+  "buildCommand" : "prepareForIndexing",
+  "configuredTargets" : [
+    {
+      "guid" : "700ce9fb9fcd531af42ad28ef9611566980e4d8254097d1e8c1b1f2644014c05"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6ac184ad8b3c49a0c098ef639132f1afe4"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6a2144fa6e8a15946a712e8b0533378446"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6ad57b8bce60a0f11113f4cff532db68d3"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6ab762d5de103fb6cfc7506aa6be1d4f33"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6aa408a4c1f668e62161cdeba76f57d50c"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6ad367f2c9826e0c44989d081ca3d0f4ca"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6ac075cc473fa5680b867d51f1363214ff"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6add3a6a519ed4181bf31ea6bc1f18ebc5"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6ad3c8dfff2c580c352f83d3850ad17775"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6a718890dfdac589615663a02d43d9af3e"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6a67a03f3e2cc0994dbb98011af1610b98"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6af10882e1684b8a3dfdec597bc0a47af3"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6acb446d83a55866e5ca0338d00b7158fb"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6ad7de55694c750fe04d3bc1517f91a481"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6afdca3e568c0d4fe17f0e20bbe764df0d"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6a6836e78755c7a49cbac94d6710bb39cc"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6a812cb744006e837a06a1ec7fcf8ca389"
+    },
+    {
+      "guid" : "1d0c77e573f7cc33ce899967726e4c6a0062393f91a1d2d94e3e5ed3a5aa5da9"
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Build/Intermediates",
+      "buildProductsPath" : "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Build/Products",
+      "derivedDataPath" : "/Users/Ronish/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/Ronish/Library/Developer/Xcode/DerivedData/Flash_Chat_iOS13-gqkfbmqqbjlctaarkeddfhcgzfum/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/Ronish/Library/Developer/Xcode/DerivedData/Flash_Chat_iOS13-gqkfbmqqbjlctaarkeddfhcgzfum/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/Ronish/Documents/iOS Udemy/Flash-Chat-iOS13/Build/Intermediates/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "B7A75C14-5E3C-4B7C-9571-A29348158F3F",
+          "TARGET_DEVICE_MODEL" : "iPhone12,1",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

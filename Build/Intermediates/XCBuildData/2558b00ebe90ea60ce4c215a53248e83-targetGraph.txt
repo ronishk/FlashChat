@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+CLTypingLabel in Pods
+Pods-Flash Chat iOS13 in Pods, depends on:
+CLTypingLabel in Pods (explicit)
+Flash Chat iOS13 in Flash Chat iOS13, depends on:
+Pods-Flash Chat iOS13 in Pods (implicit dependency via file 'Pods_Flash_Chat_iOS13.framework' in build phase 'Link Binary'
+CLTypingLabel in Pods (implicit dependency via options '-framework CLTypingLabel' in build setting 'OTHER_LDFLAGS'

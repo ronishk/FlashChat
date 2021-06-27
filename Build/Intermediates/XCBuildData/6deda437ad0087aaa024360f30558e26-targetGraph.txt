@@ -1,0 +1,77 @@
+Target dependency graph (19 targets)
+BoringSSL-GRPC in Pods
+CLTypingLabel in Pods
+PromisesObjC in Pods
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCoreDiagnostics in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreDiagnostics in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GTMSessionFetcher in Pods
+FirebaseAuth in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+abseil in Pods
+gRPC-C++-gRPCCertificates-Cpp in Pods
+gRPC-Core in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods, depends on:
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods
+FirebaseFirestore in Pods, depends on:
+FirebaseCore in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+Pods-Flash Chat iOS13 in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+CLTypingLabel in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+Flash Chat iOS13 in Flash Chat iOS13, depends on:
+Pods-Flash Chat iOS13 in Pods (implicit dependency via file 'Pods_Flash_Chat_iOS13.framework' in build phase 'Link Binary'
+CLTypingLabel in Pods (implicit dependency via options '-framework CLTypingLabel' in build setting 'OTHER_LDFLAGS'
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS'
+FirebaseAuth in Pods (implicit dependency via options '-framework FirebaseAuth' in build setting 'OTHER_LDFLAGS'
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS'
+FirebaseCoreDiagnostics in Pods (implicit dependency via options '-framework FirebaseCoreDiagnostics' in build setting 'OTHER_LDFLAGS'
+FirebaseFirestore in Pods (implicit dependency via options '-framework FirebaseFirestore' in build setting 'OTHER_LDFLAGS'
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS'
+GoogleDataTransport in Pods (implicit dependency via options '-framework GoogleDataTransport' in build setting 'OTHER_LDFLAGS'
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS'
+abseil in Pods (implicit dependency via options '-framework absl' in build setting 'OTHER_LDFLAGS'
+gRPC-Core in Pods (implicit dependency via options '-framework grpc' in build setting 'OTHER_LDFLAGS'
+gRPC-C++ in Pods (implicit dependency via options '-framework grpcpp' in build setting 'OTHER_LDFLAGS'
+leveldb-library in Pods (implicit dependency via options '-framework leveldb' in build setting 'OTHER_LDFLAGS'
+nanopb in Pods (implicit dependency via options '-framework nanopb' in build setting 'OTHER_LDFLAGS'
+BoringSSL-GRPC in Pods (implicit dependency via options '-framework openssl_grpc' in build setting 'OTHER_LDFLAGS'
